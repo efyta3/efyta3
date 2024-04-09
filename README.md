@@ -1,5 +1,7 @@
-# 🖥️ About Me
+# 🖥️ Areas of Interest
 I am a current 3rd year undergraduate student studying MEng Electronics and Computer Engineering (Hons) at the University of Nottingham. This GitHub contains projects related to software development.
+
+# 🧠 Programming Skills
 
 # 🔭 I’m currently working on
 
